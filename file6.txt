@@ -1,1 +1,3 @@
 this is what file 6 contains
+
+here is the second line
